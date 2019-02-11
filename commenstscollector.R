@@ -1,0 +1,10 @@
+Ifescomments2017 <- rbind(comments1, comments2, comments3, comments4, comments5, comments6, comments7, comments8, comments9, comments10, 
+comments11, comments12, comments13, comments14, comments15, comments16, comments17, comments18, comments19, comments20, comments21, 
+comments22, comments23, comments24, comments25, comments26, comments27, comments28, comments29, comments30, comments31, comments32,
+comments33, comments34, comments35, comments36, comments37, comments38, comments39, comments40, comments41, comments42, comments43,
+comments44, comments45, comments46, comments47, comments48, comments49, comments50, comments51, comments52, comments53, comments54,
+comments55, comments56, comments57, comments58, comments59, comments60, comments61, comments62, comments63, comments64, comments65,
+comments66, comments67, comments68, comments69, comments70, comments71, comments72, comments73, comments74, comments75, comments76, 
+comments77, comments78, comments79, comments80, comments81, comments82, comments83, comments84, comments85, comments86, comments87,
+comments88, comments89, comments90, comments91, comments92, comments93, comments94, comments95, comments96, comments97, comments98,
+comments99, comments100, comments101, comments102, comments103, comments104, comments105, comments106, comments107)
